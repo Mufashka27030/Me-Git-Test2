@@ -17,6 +17,11 @@
         or catchphrase, but the concept has since become broader and more multi-faceted, 
         evolving to include more elaborate structures such as challenges, GIFs, videos, and viral 
         sensations.[1]
-        </p>    
+        </p>
+        <ul>
+            <li>One</li>
+            <li>Two</li>   
+            <li>Three</li>       
+        </ul>
     </body>
 </html>
